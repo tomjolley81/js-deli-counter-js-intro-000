@@ -5,7 +5,7 @@ function takeANumber(line, name) {
 }
 function nowServing(katzDeliLine) {
   if (katzDeliLine.length > 0) {
-    current = katzDeliLine[0]
+    var current = katzDeliLine[0]
     katzDeliLine.slice(1)
     return current
   }else {
