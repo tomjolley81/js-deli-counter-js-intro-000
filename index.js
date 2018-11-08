@@ -13,3 +13,8 @@ function nowServing(katzDeliLine) {
   }
 
 }
+fucntion currentLine(line) {
+  if (line.length > 0) {
+    
+  }
+}
