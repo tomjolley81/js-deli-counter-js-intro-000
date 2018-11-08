@@ -13,7 +13,7 @@ function nowServing(katzDeliLine) {
   }
 
 }
-fucntion currentLine(line) {
+function currentLine(line) {
   if (line.length > 0) {
     return ''
   }
